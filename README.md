@@ -4,7 +4,7 @@
 <h3 align="center">Cognizant Java-React-Bootcamp</h3>
 ## It's a simple API
 
-<img src="doc.JPG" alt="api" width="500" height="600">
+<img src="doc.JPG" alt="api" >
 
 
 <h3 align="left">Languages and Tools:</h3>
