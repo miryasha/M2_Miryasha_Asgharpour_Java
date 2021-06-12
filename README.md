@@ -2,7 +2,7 @@
 # This Repo is for the second challenge of Cognizant Java-React-Bootcamp
 
 <h3 align="center">Cognizant Java-React-Bootcamp</h3>
-## It's a simple API
+## Usage
 
 <img src="doc.JPG" alt="api" >
 
